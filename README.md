@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ATHIRA
 - Iam a software engineer mainly focused on Python and Javascript.
-- Expert in Python Django, Flask and Flutter
+- Expert in Python Django, Flask 
 - 👀 I’m interested in learniing new languages
 - 🌱 I’m currently learning more about Machine Learning.
 - 💞️ I’m looking to collaborate on software development
