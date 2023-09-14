@@ -1,11 +1,11 @@
 - 👋 Hi, I’m ATHIRA
-- Iam a software engineer mainly focused on Python and Javascript.
+- Iam a software engineer mainly focused on Python 
 - Expert in Python Django, Flask 
 - 👀 I’m interested in learniing new languages
 - 🌱 I’m currently learning more about Machine Learning.
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me ...
-- Now iam doing cool AI projects, Web applications using python and javascript
+- Now iam doing cool AI projects, Web applications using python 
 
  🏠 Work from home
  
