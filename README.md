@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m ATHIRA<br>Iam a software engineer mainly focused on Python<br>Expert in Python Django, Flask<br>👀 I’m interested in learniing new languages<br>🌱 I’m currently learning more about Machine Learning.<br>💞️ I’m looking to collaborate on software development<br>📫 How to reach me ...<br>Now iam doing cool AI projects, Web applications using python<br>🏠 Work from home<br><br>athirashibuathi20@gmail.com
+👋 Hi, I’m ATHIRA<br>Iam a software engineer mainly focused on Python and PHP<br>Expert in Python Django, Flask<br>👀 I’m interested in learniing new languages<br>🌱 I’m currently learning more about Machine Learning.<br>💞️ I’m looking to collaborate on software development<br>📫 How to reach me ...<br>Now iam doing cool AI projects, Web applications using python<br>🏠 Work from home<br><br>athirashibuathi20@gmail.com
 
 
 
